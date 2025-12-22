@@ -1,4 +1,3 @@
-## Hi there 👋
 <img width="1584" height="396" alt="Capa LinkedIn Alessandra (2)" src="https://github.com/user-attachments/assets/40f02b89-c366-4018-8742-90c6f2559484" />
 
 <!--
