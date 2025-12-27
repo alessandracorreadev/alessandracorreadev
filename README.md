@@ -8,7 +8,7 @@
 - Graduanda em Engenharia de Software pela Universidade Uninter  
 - Estudando Engenharia de Dados de forma independente com mentoria  
 - Interessada em colaborar em projetos, com foco na resolução de problemas e na contribuição para o crescimento e a estruturação das regras de negócio da empresa.  
-- Interesses: desenvolvimento web, dados e tecnologia aplicada a negócios
+- Interesses: Desenvolvimento de software, resolução de problemas por meio de dados e tecnologia aplicada aos negócios.
 
 ### 🇺🇸 English
 - Graduated in Systems Analysis and Development.
@@ -16,4 +16,4 @@
 - Software Engineering undergraduate at Uninter University  
 - Studying Data Engineering independently with mentorship  
 - Interested in collaborating on projects, with a focus on problem-solving and contributing to the growth and structuring of the company’s business rules.  
-- Interests: web development, data, and technology applied to business 
+- Interests: Desenvolvimento de software, resolução de problemas por meio de dados e tecnologia aplicada aos negócios. 
