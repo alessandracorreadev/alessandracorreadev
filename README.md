@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Capa LinkedIn Alessandra (2)" src="" />
+<img width="1584" height="396" alt="Capa LinkedIn Alessandra (2)" src="https://media.licdn.com/dms/image/v2/D4D16AQEcTfMm56gd_Q/profile-displaybackgroundimage-shrink_350_1400/B4DaCLvq9eK8AU-/0/1789050925180?e=1791417600&v=beta&t=mwt7gO3q08zCC-ChLDOhySbbDI-L7mkoOkk2SMnRAJk" />
 
 ## 👋 Sobre mim | About me
 
