@@ -4,7 +4,7 @@
 
 ### 🇧🇷 Português
 - Graduada em Anásile e Desenvolvimento de Sistemas pela Universidade Unip. 
-- Estudante de Desenvolvimento Web no Bootcamp da Le Wagon  
+- Desenvolvimento Web no Bootcamp da Le Wagon  
 - Graduanda em Engenharia de Software pela Universidade Uninter  
 - Estudando Engenharia de Dados de forma independente com mentoria  
 - Interessada em colaborar em projetos, com foco na resolução de problemas e na contribuição para o crescimento e a estruturação das regras de negócio da empresa.  
@@ -12,7 +12,7 @@
 
 ### 🇺🇸 English
 - Graduated in Systems Analysis and Development at Unip University.
-- Web Development student at Le Wagon Bootcamp  
+- Web Development at Le Wagon Bootcamp  
 - Software Engineering undergraduate at Uninter University  
 - Studying Data Engineering independently with mentorship  
 - Interested in collaborating on projects, with a focus on problem-solving and contributing to the growth and structuring of the company’s business rules.  
